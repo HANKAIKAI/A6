@@ -7,7 +7,7 @@
 * 
 * Name: ____Yuan-Kai Han________ Student ID: __154477194________ Date: __08. 06. 2022______
 *
-* Angular App (Deployed) Link: __https://web-422-as6.vercel.app/__________
+* Angular App (Deployed) Link: __https://a6-9qxyov1k0-hankaikai.vercel.app__________
 *
 * User API (Heroku) Link: __https://aqueous-tor-55806.herokuapp.com/________ 
 * 
