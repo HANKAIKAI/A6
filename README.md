@@ -1,6 +1,6 @@
 # Spotify Music Project
 
-Link to the web app: https://tender-borg-af89d2.netlify.app/<br/>
+Link to the web app: https://a6-9qxyov1k0-hankaikai.vercel.app<br/>
 Angular Web APP using **Spotify API** that allows user to check the majority of songs on the market. 
 The songs can be found via the name of artists or albums as well as their details such as followers, list of tracks, and artists.
 A registered user can sign up and add their favorite songs to their libraries. 
